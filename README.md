@@ -14,7 +14,7 @@
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkar1853&layout=compact">
 
-## Skill Set :muscle
+## Skill Set :muscle:
 
 These are some of the major technologies that I use or have worked on in the past:
 
