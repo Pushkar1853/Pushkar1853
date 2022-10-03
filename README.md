@@ -96,28 +96,4 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ---
 
-| 🎵 Now Playing                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" height="64"></a> |
-
-<table>
-  <thead>
-    <tr>
-      <th>📈 Favourite Artists</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href=https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V><img src="./images/Ed.png" ></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><a href="https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"><img src="./images/Taylor.png" ></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"><img src="./images/TheWeeknd.png" ></a></td>
-    </tr>
-  </tbody>
-</table>
 
