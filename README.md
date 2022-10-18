@@ -25,7 +25,10 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ### Development Languages
 
-<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />|<img title="Css" alt="Css" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">|<img title="JS" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />|
+<img title="Css" alt="Css" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">|
+<img title="JS" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 |--|--|--|--|
 
 ### Libraries and Frameworks
@@ -34,8 +37,9 @@ These are some of the major technologies that I use or have worked on in the pas
 <img title="Pytorch" alt="Pytorch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png">|
 |--|--|--|--|
 <img title="Numpy" alt="Numpy" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png">|<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>|<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>|
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>|
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>|
+<img title="Open CV" alt="Open CV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|
 
 ### Tools
 
