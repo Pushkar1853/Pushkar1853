@@ -30,11 +30,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ### Libraries and Frameworks
 
-<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"><img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png"><img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="Pytorch" alt="Pytorch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png">|
-|--|--|--|--|<img title="Numpy" alt="Numpy" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png">|<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>|
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>|
-<img title="Open CV" alt="Open CV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|
+<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png"<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="Pytorch" alt="Pytorch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png">|
+|--|--|--|--|<img title="Numpy" alt="Numpy" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png">|<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>|<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>|<img title="Open CV" alt="Open CV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|
 |--|--|--|--|
 
 ### Tools
