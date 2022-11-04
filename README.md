@@ -6,11 +6,9 @@
 * Data Science
 * Competitive Programming
 
----
 
 ### I'm an Undergraduate student at IIT Guwahati. I love to explore different domains of computer science & have a keen interest in Software Development and Deep Learning.
 
----
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkar1853&layout=compact">
 
@@ -73,13 +71,16 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <!-- ![](https://hit.yhype.me/github/profile?user_id=63250453) -->
 
+## Hactoberfest2022
+
+[![@pushkar_07's Holopin board](https://holopin.me/pushkar_07)](https://holopin.io/@pushkar_07)
+
 ---
 
 ### Profile views counter
 
 ![Visitor Count](https://profile-counter.glitch.me/{Pushkar1853}/count.svg)
 
----
 
 ### A Famous Fact/Quote
 
@@ -89,12 +90,9 @@ These are some of the major technologies that I use or have worked on in the pas
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
----
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you
 
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
-
----
 
 
