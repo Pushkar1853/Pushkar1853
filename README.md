@@ -7,7 +7,7 @@
 * Competitive Programming
 
 
-### I'm an Undergraduate student at IIT Guwahati. I love to explore different domains of computer science & have a keen interest in Software Development and Deep Learning.
+### I'm an Undergraduate student at IIT Guwahati. I love to explore different domains of Science & have a keen interest in Artificial Intelligence and Deep Learning. I also like to train deep neural nets on large datasets.
 
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkar1853&layout=compact">
@@ -58,6 +58,9 @@ These are some of the major technologies that I use or have worked on in the pas
  
  def Ambitions():
   LearnJapanese()
+  LearnSpanish()
+  PublishMyPaper()
+  WorldTour()
   FinishMyNovel()
   # Assume 10 more awesome ambitions here  ;)
  
