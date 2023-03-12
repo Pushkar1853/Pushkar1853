@@ -8,6 +8,8 @@
 
 
 ### I'm an Undergraduate student at IIT Guwahati. I love to explore different domains of Science & have a keen interest in Artificial Intelligence and Deep Learning. I also like to train deep neural nets on large datasets.
+* Check out my website: https://pushkar1853.github.io/
+* Feel free to connect at LinkedIn : [LinkedIn](https://www.linkedin.com/in/pushkar-ambastha/)
 
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkar1853&layout=compact">
