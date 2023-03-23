@@ -1,4 +1,4 @@
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, there
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, there
 
 Currently an Undergraduate at IIT Guwahati. I love to explore different domains of Science & have a keen interest in AI and its innumerable implementations. I also like to train deep neural nets on large datasets.
 <img src = "images\Holopin-badge.png" align="right" style="width: 50%; height: auto;">
