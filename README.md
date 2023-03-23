@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pushkar
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, there
 
 <!-- ## :computer: Technologies I Love
 
@@ -6,10 +6,9 @@
 * Data Science
 * Competitive Programming -->
 
-
-### I'm an Undergraduate student at IIT Guwahati. I love to explore different domains of Science & have a keen interest in Artificial Intelligence and Deep Learning. I also like to train deep neural nets on large datasets.
-* Check out my website: https://pushkar1853.github.io/
-* Feel free to connect at LinkedIn : [LinkedIn](https://www.linkedin.com/in/pushkar-ambastha/)
+Currently an Undergraduate at IIT Guwahati. I love to explore different domains of Science & have a keen interest in AI and its innumerable implementations. I also like to train deep neural nets on large datasets.
+* [Personal Website](https://pushkar1853.github.io/)
+* [LinkedIn](https://www.linkedin.com/in/pushkar-ambastha/)
 
 
 <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkar1853&layout=compact"> -->
@@ -76,8 +75,10 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <!-- ![](https://hit.yhype.me/github/profile?user_id=63250453) -->
 
-<!-- ## Hactoberfest2022 -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=Pushkar1853&color=blue)
+
+<!-- ## Hactoberfest2022 -->
+
 [![@pushkar_07's Holopin board](https://holopin.me/pushkar_07)](https://holopin.io/@pushkar_07)
 
 <!-- --- -->
