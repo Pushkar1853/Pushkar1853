@@ -5,6 +5,7 @@ Currently an undergrad at IIT Guwahati. I love to explore distinct domains of sc
 
 [Personal Website](https://pushkar1853.github.io/)
 <p align="left">
+<a href="https://pushkar1853.github.io/" target="blank"><img align="center" src="src/images/icons/FrontendDevelopment/webpack.svg" alt="pushkar-ambastha" height="30" width="40" /></a>
 <a href="https://twitter.com/Pushkar_A07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/twitter.svg" alt="Pushkar1853" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pushkar-ambastha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/linked-in-alt.svg" alt="pushkar-ambastha" height="30" width="40" /></a>
 <a href="https://www.instagram.com/pushkar.ambastha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/instagram.svg" alt="pushkar-ambastha" height="30" width="40" /></a>
