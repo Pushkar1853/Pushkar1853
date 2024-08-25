@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-Undergrad at IIT Guwahati. I love to explore distinct domains of science and have a keen interest in AI and its innumerable implementations. I like to train deep neural nets on large datasets.
+Undergrad at IIT Guwahati. I love to explore distinct domains of science and have a keen interest in AI and its innumerable implementations. I like to train deep neural nets.
 <img src = "images\Holopin-badge.png" align="right" style="width: 50%; height: auto;">
 
 [Personal Website](https://pushkar1853.github.io/)
