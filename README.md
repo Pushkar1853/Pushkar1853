@@ -1,7 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-Undergrad at IIT Guwahati. I love exploring distinct science domains and have a keen interest in AI and its innumerable implementations.
-<!--  <img src = "images\Holopin-badge.png" align="right" style="width: 50%; height: auto;"> -->
+IIT Guwahati undergrad passionate about diverse science and AI applications.
+<!-- Undergrad at IIT Guwahati. I love exploring distinct science domains and have a keen interest in AI and its innumerable implementations.
+  <img src = "images\Holopin-badge.png" align="right" style="width: 50%; height: auto;"> -->
 
 [Personal Website](https://pushkar1853.github.io/)
 <p align="left">
