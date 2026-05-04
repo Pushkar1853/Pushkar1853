@@ -5,12 +5,14 @@ IIT Guwahati undergrad passionate about diverse science and AI applications.
   <img src = "images\Holopin-badge.png" align="right" style="width: 50%; height: auto;"> -->
 
 #### [Personal Website](https://pushkarambastha.framer.ai/)
-<p align="left">
-<!-- <a href="https://pushkar1853.github.io/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/tailwind.svg" alt="pushkar-ambastha" height="30" width="40" /></a> -->
-<a href="https://twitter.com/Pushkar_A07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/twitter.svg" alt="Pushkar1853" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pushkar-ambastha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/linked-in-alt.svg" alt="pushkar-ambastha" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/pushkar007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/kaggle.svg" alt="pushkar-ambastha" height="30" width="40" /></a>
-<!-- <a href="https://www.instagram.com/pushkar.ambastha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/instagram.svg" alt="pushkar-ambastha" height="30" width="40" /></a> -->
+
+<!-- Socials (forced single row) -->
+<p align="left" style="white-space:nowrap;">
+  <a href="https://pushkar1853.github.io/" target="blank" style="display:inline-block; margin-right:8px;"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/website.svg" alt="website" height="30" width="40" /></a>
+  <a href="https://twitter.com/Pushkar_A07" target="blank" style="display:inline-block; margin-right:8px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/pushkar-ambastha/" target="blank" style="display:inline-block; margin-right:8px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/pushkar007" target="blank" style="display:inline-block; margin-right:8px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/pushkar.ambastha/" target="blank" style="display:inline-block;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
 <!-- ![Visitor Count](https://komarev.com/ghpvc/?username=Pushkar1853&color=blue)
@@ -25,19 +27,19 @@ Comments -->
 These are some of the major technologies that I use or have worked on in the past:
 <!-- ### Programming Languages -->
 <!-- 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>|<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>|<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height=[...]
 |--|--|--| -->
 <!-- ### Development Languages
  -->
-<!-- <img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />|<img title="Css" alt="Css" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">|<img title="JS" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<!-- <img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />|<img title="Css" alt="Css" width="40px" src="https://raw.githubuser[...]
 |--|--|--|--| -->
 <!-- ### Libraries and Frameworks -->
-<!-- <img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="Pytorch" alt="Pytorch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png">|
+<!-- <img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Keras" alt="Keras" width="40px" s[...]
 |--|--|--|--|
-<img title="Numpy" alt="Numpy" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png">|<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>|<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>|<img title="Open CV" alt="Open CV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">| -->
+<img title="Numpy" alt="Numpy" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png">|<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"[...]
 <!-- ### Tools -->
 <!-- 
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
+<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.i[...]
 |--|--|--|--|
 <!-- <br> -->
 <!-- ###### (In no perticular ordering) --> 
@@ -80,5 +82,5 @@ These are some of the major technologies that I use or have worked on in the pas
 <!-- • <i>The password for the computer controls of nuclear-tipped missiles of the U.S was 00000000 for eight years.</i> -->
 <!--ENDS_HERE_QUOTE_README-->
 <!-- </a> --> 
-<!-- ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you  -->
+<!-- ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for [...] -->
 <!-- <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' /> -->
