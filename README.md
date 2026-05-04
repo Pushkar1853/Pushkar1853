@@ -1,6 +1,6 @@
 <!--### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="23px"> -->
 
-IIT Guwahati undergrad passionate about diverse science and AI applications.
+I like diverse applications of science and AI.
 <!-- Undergrad at IIT Guwahati. I love exploring distinct science domains and have a keen interest in AI and its innumerable implementations.
   <img src = "images\Holopin-badge.png" align="right" style="width: 50%; height: auto;"> -->
 
