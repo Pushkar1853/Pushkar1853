@@ -1,12 +1,29 @@
 <!--### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="23px"> -->
 
-I like diverse applications of science and AI.
+I like science and AI applications.
 <!-- Undergrad at IIT Guwahati. I love exploring distinct science domains and have a keen interest in AI and its innumerable implementations.
-  <img src = "images\Holopin-badge.png" align="right" style="width: 50%; height: auto;"> -->
+  <img src = "images\Holopin-badge.png" align="right" style="width: 50%; height: auto;"> 
 
+I like diverse applications of science and AI. Undergrad at IIT Guwahati.-->
+
+<p align="left">
+  <!-- <a href="https://pushkarambastha.framer.ai/">
+    <img src="https://img.shields.io/badge/Website-333333?style=flat-square" alt="Personal Website" />
+  </a> -->
+  <a href="https://twitter.com/Pushkar_A07">
+    <img src="https://img.shields.io/badge/X-333333?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://www.linkedin.com/in/pushkar-ambastha/">
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/pushkar007">
+    <img src="https://img.shields.io/badge/Kaggle-333333?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+</p>
+<!--
 #### [Personal Website](https://pushkarambastha.framer.ai/)
 <p align="left">
-<!-- <a href="https://pushkar1853.github.io/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/tailwind.svg" alt="pushkar-ambastha" height="30" width="40" /></a> -->
+<!-- <a href="https://pushkar1853.github.io/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/tailwind.svg" alt="pushkar-ambastha" height="30" width="40" /></a> 
 <a href="https://twitter.com/Pushkar_A07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/twitter.svg" alt="Pushkar1853" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pushkar-ambastha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/linked-in-alt.svg" alt="pushkar-ambastha" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/pushkar007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/kaggle.svg" alt="pushkar-ambastha" height="30" width="40" /></a>
